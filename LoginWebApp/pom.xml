@@ -27,4 +27,10 @@
 	<build>
 		<finalName>LoginWebApp</finalName>
 	</build>
+	<publisher>
+  		<contextUrl>https://codvatechlabs.jfrog.io/artifactory/mavendemo-libs-release/</contextUrl>
+  		<username>codvatechlabs@gmail.com</username>
+  		<password>Devops@2021</password>
+		</publisher>
+
 </project>
