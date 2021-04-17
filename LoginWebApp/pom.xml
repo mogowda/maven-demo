@@ -27,5 +27,36 @@
 	<build>
 		<finalName>LoginWebApp</finalName>
 	</build>
-
+<repositories>
+        <repository>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+          <id>central</id>
+          <name>mavendemo-libs-release</name>
+          <url>https://codvatechlabs.jfrog.io/artifactory/mavendemo-libs-release</url>
+        </repository>
+        <repository>
+          <snapshots />
+          <id>snapshots</id>
+          <name>mavendemo-libs-snapshot</name>
+          <url>https://codvatechlabs.jfrog.io/artifactory/mavendemo-libs-snapshot</url>
+        </repository>
+      </repositories>
+      <pluginRepositories>
+        <pluginRepository>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+          <id>central</id>
+          <name>mavendemo-libs-release</name>
+          <url>https://codvatechlabs.jfrog.io/artifactory/mavendemo-libs-release</url>
+        </pluginRepository>
+        <pluginRepository>
+          <snapshots />
+          <id>snapshots</id>
+          <name>mavendemo-libs-snapshot</name>
+          <url>https://codvatechlabs.jfrog.io/artifactory/mavendemo-libs-snapshot</url>
+        </pluginRepository>
+      </pluginRepositories>
 </project>
