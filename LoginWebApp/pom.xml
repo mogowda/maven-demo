@@ -27,16 +27,16 @@
 	<build>
 		<finalName>LoginWebApp</finalName>
 	</build>
-	<distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0m9iyh6mxybv-artifactory-primary-0-releases</name>
-        <url>https://codvatechlabs.jfrog.io/artifactory/mavenkey</url>
+        <name>a0gxfu7vid4yc-artifactory-primary-0-releases</name>
+        <url>https://ctldevopsdemo.jfrog.io/artifactory/default-maven-virtual</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>a0m9iyh6mxybv-artifactory-primary-0-snapshots</name>
-        <url>https://codvatechlabs.jfrog.io/artifactory/mavenkey</url>
+        <name>a0gxfu7vid4yc-artifactory-primary-0-snapshots</name>
+        <url>https://ctldevopsdemo.jfrog.io/artifactory/default-maven-virtual</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
