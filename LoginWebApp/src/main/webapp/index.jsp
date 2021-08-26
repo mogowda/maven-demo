@@ -11,7 +11,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">CI/CD Web Login Page</th>
+                        <th colspan="2">Jenkins CI/CD Web Login Page</th>
                     </tr>
                 </thead>
                 <tbody>
