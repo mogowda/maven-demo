@@ -1,3 +1,3 @@
 # maven-demo
-CI CD Demo
-Updated Webhook defination 17
+Go to below path and update settings.xml on mavens server
+/usr/share/apache-maven/conf/settings.xml
